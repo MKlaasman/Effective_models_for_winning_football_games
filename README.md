@@ -11,3 +11,5 @@ https://medium.com/@milanklaasman/effective-models-for-winning-football-games-14
 ![](images/Scatterplot_xG_against_goalDifference.PNG)
 ![](images/Hexplot_goalsScored_against_xT.PNG)
 ![](images/Hexplot_goalsScored_against_xG.PNG)
+![](images/Correlation_heatmap_goal_difference.PNG)
+![](images/Correlation_heatmap_goals_scored.PNG)
